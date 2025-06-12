@@ -1,3 +1,3 @@
 # hola-Mundo3
-:moon :dog :pizza
-:icecream 
+:moon:; :dog:; :pizza:;
+:icecream:
